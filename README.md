@@ -3,3 +3,6 @@
 A simple project to practice a few git/github workflows.  
 
 Absera Yihunie (@absera)
+
+# Contributions
+[Merged Pull Request to Matthias' Repository](https://github.com/cs-uh-3260/s25-i1-gitpractice-MatthiasKebede/pull/2)
