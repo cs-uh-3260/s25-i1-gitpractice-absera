@@ -8,7 +8,3 @@ ___
 * changed link text
 * added the paragraph in a blockquote 
 * modified writing style
-
----
-Name: Bereket Deneke
-The article contends the notion that software engineering is predominantly about integrating poorly documented APIs, arguing instead that this integration embodies the essence of engineering designing systems, solving complex business problems, and ensuring reliability and scalability.
